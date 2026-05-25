@@ -4,17 +4,17 @@
     "url": "https://cpanel.solynxnodes.fun",
     "icon": "https://icons.duckduckgo.com/ip3/cpanel.solynxnodes.fun.ico",
     "slug": "control-panel",
-    "status": "down",
-    "uptime": "11.93%",
-    "uptimeDay": "19.49%",
-    "uptimeWeek": "18.24%",
-    "uptimeMonth": "11.93%",
-    "uptimeYear": "11.93%",
-    "time": 2093,
-    "timeDay": 3611,
-    "timeWeek": 2093,
-    "timeMonth": 2093,
-    "timeYear": 2093,
+    "status": "up",
+    "uptime": "11.48%",
+    "uptimeDay": "6.69%",
+    "uptimeWeek": "18.28%",
+    "uptimeMonth": "11.48%",
+    "uptimeYear": "11.48%",
+    "time": 1899,
+    "timeDay": 735,
+    "timeWeek": 1899,
+    "timeMonth": 1899,
+    "timeYear": 1899,
     "dailyMinutesDown": {
       "2026-05-22": 709,
       "2026-05-21": 1440,
@@ -26,7 +26,7 @@
       "2026-05-15": 1033,
       "2026-05-23": 714,
       "2026-05-24": 1058,
-      "2026-05-25": 179
+      "2026-05-25": 762
     }
   },
   {
@@ -64,7 +64,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-25": 179,
+      "2026-05-25": 766,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
@@ -94,7 +94,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-25": 179,
+      "2026-05-25": 766,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
